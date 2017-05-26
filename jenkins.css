@@ -7,12 +7,10 @@
 #header {
     padding: 16px;
     height: 72px;
-    background-color: #3D7D8C;
-    border-bottom: 1px solid #fff;
+    background-color: #272727;
 }
 
 #jenkins-home-link {
-    padding: 9px;
     text-decoration: none;
 }
 
