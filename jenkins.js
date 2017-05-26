@@ -11,7 +11,7 @@ function chgeLogo() {
     var imgs=document.getElementsByTagName("img");
     var imgTag = document.createElement("img");
     imgTag.setAttribute("src","https://apiumhub.com/wp-content/uploads/2017/02/apiumtech-logo@2x-nuevo.png");
-    imgTag.setAttribute("style", "vertical-align: middle;padding-left: 0.75em;");
+    imgTag.setAttribute("style", "vertical-align: middle;padding-left: 0.75em;padding-top: 8px;height: 59px;");
     imgs[0].parentNode.appendChild(imgTag);
     var spanTag = document.createElement("span");
     spanTag.id = "heading-text";
