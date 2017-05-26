@@ -10,7 +10,7 @@ function makeDoubleDelegate(function1, function2) {
 function chgeLogo() {
     var imgs=document.getElementsByTagName("img");
     var imgTag = document.createElement("img");
-    imgTag.setAttribute("src","https://apiumhub.com/wp-content/uploads/2017/02/apiumtech-logo@2x-nuevo.png");
+    imgTag.setAttribute("src","https://apiumhub.com/wp-content/uploads/2017/03/apiumtech-logo@2x-nuevo-gris.png");
     imgTag.setAttribute("style", "vertical-align: middle;padding-left: 0.75em;");
     imgs[0].parentNode.appendChild(imgTag);
     var spanTag = document.createElement("span");
