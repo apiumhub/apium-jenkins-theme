@@ -5,9 +5,22 @@
 }
 
 #header {
-    padding: 16px;
+    padding-top: 4px;
     height: 72px;
     background-color: #272727;
+}
+
+#header .login {
+    position: relative;
+    top: 18px;
+    color: white;
+    margin-right: 10px;
+}
+#header .searchbox {
+    float: right;
+    padding: 6px 11px;
+    top: 13px;
+    position: relative;
 }
 
 #jenkins-home-link {
