@@ -121,7 +121,7 @@
 #projectstatus > tbody > tr.header, #projectstatus > tbody > tr.header > th {
     padding-left: 3px;
     border: 0;
-    background-color: #EFFCFF;
+    background-color: #7bf798;
 }
 
 #projectstatus tr.header a, #projectstatus tr.header a span {
@@ -133,7 +133,7 @@
 #view-message #description {
     border-radius: 5px;
     padding: 5px;
-    border: 1px solid #74CCE0;
+    border: 1px solid #7bf798;
     background-color: rgba(197, 223, 229, 0.4);
 }
 
