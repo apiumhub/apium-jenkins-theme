@@ -38,8 +38,8 @@
 }
 
 #breadcrumbBar, #breadcrumbBar div, #breadcrumbBar div a, .breadcrumbBarAnchor {
-    background-color: #91C0C9;
-    color: #FFF !important;
+    background-color: #7bf798;
+    color: #000 !important;
 }
 
 #side-panel .task img {
